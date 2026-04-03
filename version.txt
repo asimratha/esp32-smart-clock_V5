@@ -1,3 +1,3 @@
 // --- OTA UPDATE TAGS ---
-const char FIRMWARE_TAG[] __attribute__((used)) = "###HW:7SEG_CLOCK###VER:6.8###";
-float FIRMWARE_VERSION = 6.8;
+const char FIRMWARE_TAG[] __attribute__((used)) = "###HW:7SEG_CLOCK###VER:6.9###";
+float FIRMWARE_VERSION = 6.9;
